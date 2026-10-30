@@ -50,6 +50,6 @@ url-shortener/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/url-shortener.git
-   cd url-shortener
+   git clone https://github.com/ThisCode09/url-shortener-service.git
+   cd url-shortener-service
    ``` 
