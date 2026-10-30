@@ -19,7 +19,7 @@ url-shortener/
 │   └── storage/             # Data persistence layer (JSON-backed thread-safe storage)
 ├── .gitignore
 └── go.mod
-```text
+text```
 
 ## 🏗️ Layer Breakdown
 
